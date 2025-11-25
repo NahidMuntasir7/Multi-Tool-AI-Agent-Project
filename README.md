@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 ### 4. Get API Keys
 
-#### GitHub Token (for GPT-4o-mini):
+#### GitHub Token (for GPT-4.1-mini):
 1. Go to [GitHub Models](https://github.com/marketplace/models)
 2. Sign in and generate a Personal Access Token (classic)
 3. Copy the token (starts with `ghp_`)
