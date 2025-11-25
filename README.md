@@ -8,8 +8,8 @@ An intelligent AI agent that uses multiple tools to answer medical questions by 
   - Heart Disease dataset
   - Cancer dataset
   - Diabetes dataset
-- **Web Search Integration**: Get up-to-date medical information using Tavily API
-- **Automatic Tool Selection**: AI agent automatically chooses the right tool for your question
+- **Web Search Integration**: Get up-to-date medical information using Tavily API.
+- **Automatic Tool Selection**: AI agent automatically chooses the right tool for your question.
 - **SQL Generation**: The LLM converts natural-language questions into SQL queries to retrieve information from three medical databases. The queried results are then processed, converted back into natural language, and presented clearly to the user.
 
 
