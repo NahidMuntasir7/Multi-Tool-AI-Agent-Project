@@ -1,6 +1,6 @@
 # 🏥 Multi-tool Medical AI Agent with Multi-Database Query and Web Search Integration
 
-An intelligent AI agent that uses multiple tools to answer medical questions by querying multiple databases converted from CSV files (Heart Disease, Cancer, Diabetes) and performs web searches for general medical knowledge.
+An intelligent AI agent that uses multiple tools to answer medical questions by querying multiple databases converted from CSV files and performs web searches for general medical knowledge.
 
 ## 📋 Features
 
