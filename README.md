@@ -46,8 +46,8 @@ medical-ai-agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/medical-ai-agent.git
-cd medical-ai-agent
+git clone https://github.com/NahidMuntasir7/Multi-Tool-AI-Agent-Project.git
+cd Multi-Tool-AI-Agent-Project
 ```
 
 ### 2. Create Virtual Environment
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 #### GitHub Token (for GPT-4o-mini):
 1. Go to [GitHub Models](https://github.com/marketplace/models)
-2. Sign in and generate a Classic Personal Access Token
+2. Sign in and generate a Personal Access Token (classic)
 3. Copy the token (starts with `ghp_`)
 
 #### Tavily API Key (for web search):
@@ -148,4 +148,4 @@ ask("What are treatment options for cancer?")
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@NahidMuntasir7](https://github.com/NahidMuntasir7)
