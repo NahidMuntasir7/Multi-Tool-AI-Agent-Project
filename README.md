@@ -114,16 +114,16 @@ Download the datasets and place them in the `data/` folder:
 
 ### Database Queries:
 ```python
-ask("How many patients have heart disease in the dataset?")
-ask("What is the average age of cancer patients?")
-ask("What is the average BMI of diabetic vs non-diabetic patients?")
+ask_medical_agent("How many patients have heart disease in the dataset?")
+ask_medical_agent("What is the average age of cancer patients?")
+ask_medical_agent("What is the average BMI of diabetic vs non-diabetic patients?")
 ```
 
 ### Web Search Queries:
 ```python
-ask("What are the symptoms of diabetes?")
-ask("What is coronary heart disease?")
-ask("What are treatment options for cancer?")
+ask_medical_agent("What are the symptoms of diabetes?")
+ask_medical_agent("What is coronary heart disease?")
+ask_medical_agent("What are treatment options for cancer?")
 ```
 
 ## 📝 Requirements
@@ -132,6 +132,4 @@ ask("What are treatment options for cancer?")
 - See `requirements.txt` for all dependencies
 
 ## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@NahidMuntasir7](https://github.com/NahidMuntasir7)
+GitHub: [@NahidMuntasir7](https://github.com/NahidMuntasir7)
