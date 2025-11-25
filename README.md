@@ -4,7 +4,7 @@ An intelligent AI agent that uses multiple tools to answer medical questions by 
 
 ## 📋 Features
 
-- **Multi-Database Querying**: Query 3 medical databases converted from CSV files using natural language
+- **Multi-Database Querying**: Query using natural language 3 medical databases converted from CSV files
   - Heart Disease dataset
   - Cancer dataset
   - Diabetes dataset
