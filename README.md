@@ -1,16 +1,22 @@
 # 🏥 Multi-tool Medical AI Agent with Multi-Database Query and Web Search Integration
 
-An intelligent AI agent that uses multiple tools to answer medical questions by querying multiple databases converted from CSV files and performs web searches for general medical knowledge.
+An intelligent AI-powered agent that seamlessly integrates multiple tools to answer medical questions. It queries specialized medical databases and performs web searches to provide comprehensive, accurate medical information.
 
-## 📋 Features
+## 🎯 What It Does
 
-- **Multi-Database Querying**: Implemented a natural-language query system capable of retrieving information from three medical databases that were converted from these CSV files:
-  - Heart Disease dataset
-  - Cancer dataset
-  - Diabetes dataset
-- **Web Search Integration**: Get up-to-date medical information using Tavily API.
-- **Automatic Tool Selection**: AI agent automatically chooses the right tool for your question.
-- **SQL Generation**: The LLM converts natural-language questions into SQL queries to retrieve information from three medical databases. The queried results are then processed, converted back into natural language, and presented clearly to the user.
+This project implements a sophisticated ReAct agent that intelligently routes medical queries to the appropriate data source:
+
+- **Database Queries**: Answers statistical questions about heart disease, cancer, and diabetes datasets using natural language
+- **Web Search**: Retrieves current medical knowledge about symptoms, definitions, treatments, and general health information
+- **Automatic Routing**: Uses AI to determine which tool (database or web search) is best suited for each question
+- **Natural Language Processing**: Converts plain English questions into SQL queries, executes them, and returns human-readable answers
+
+## ✨ Features
+
+- **Multi-Database Querying**: Natural-language interface to query three medical databases (Heart Disease, Cancer, Diabetes)
+- **Web Search Integration**: Real-time medical information retrieval using Tavily API
+- **Intelligent Tool Selection**: AI agent automatically chooses the optimal tool based on question context
+- **SQL Generation & Execution**: LLM converts questions to SQL, executes queries, and formats results
 
 
 ## 🛠️ Tech Stack
