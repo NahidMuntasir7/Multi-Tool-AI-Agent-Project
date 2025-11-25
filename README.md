@@ -17,7 +17,7 @@ An intelligent AI agent that uses multiple tools to answer medical questions by 
 
 - **LangGraph** - Agent orchestration
 - **LangChain** - LLM framework
-- **OpenAI GPT-4.1-mini** - Large Language model (via GitHub Models)
+- **OpenAI GPT-4.1-mini** - Large Language Model (via GitHub Models)
 - **Tavily API** - Web search
 - **Pandas** - CSV handling
 - **SQLAlchemy** - Database ORM
