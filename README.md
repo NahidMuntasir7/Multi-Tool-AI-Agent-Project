@@ -102,7 +102,7 @@ Download the datasets and place them in the `data/` folder:
 **Dataset Sources:**
 - [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - [Cancer Dataset](https://www.kaggle.com/datasets/rabieelkharoua/cancer-prediction-dataset)
-- [Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- [Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
 
 ### 7. Run the Notebook Using VS Code
 1. Install "Jupyter" extension
