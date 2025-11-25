@@ -110,20 +110,6 @@ Download the datasets and place them in the `data/` folder:
 3. Click "Select Kernel" → Choose your `venv` Python
 4. Run cells sequentially from top to bottom!
 
-## 📊 Dataset Information
-
-### Heart Disease Dataset
-- **Columns**: age, sex, chest pain type, blood pressure, cholesterol, heart rate, target
-- **Target**: 0 = No disease, 1 = Disease
-
-### Cancer Dataset
-- **Columns**: Age, Gender, BMI, Smoking, GeneticRisk, PhysicalActivity, AlcoholIntake, CancerHistory, Diagnosis
-- **Diagnosis**: 0 = No Cancer, 1 = Cancer
-
-### Diabetes Dataset
-- **Columns**: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age, Outcome
-- **Outcome**: 0 = No Diabetes, 1 = Diabetes
-
 ## 💡 Usage Examples
 
 ### Database Queries:
